@@ -1,0 +1,108 @@
+li {
+  list-style: none;
+}
+
+.header {
+  background-color: #16a085;
+  color: #fff;
+  height: 90px;
+}
+
+.header-logo {
+  font-size: 34px;
+  padding: 20px 40px;
+  float: left
+}
+
+.header-list li {
+  float: left;
+  padding: 33px 20px;
+}
+
+/* end header */
+
+/* main */
+
+.main {
+  padding: 100px 80px;
+}
+
+/* class copy-container */
+.copy-container h1 {
+  font-size: 100px;
+}
+
+.copy-container h2 {
+  font-size: 30px;
+}
+
+.copy-container span {
+  color: red;
+}
+
+/* end copy-container */
+
+/* content */
+.contents {
+  height: 500px;
+  margin-top: 100px;
+}
+
+.contents-item {
+  float: left;
+  margin-right: 35px;
+}
+
+.contents-item p {
+  font-size: 24px;
+  margin-top: 30px;
+}
+
+.contents h3 {
+  border-bottom: 1px solid black;
+  font-size: 28px;
+  padding-bottom: 15px;
+  margin-bottom: 50px;
+}
+
+/* end content */
+
+/* contact-form */
+.contact-form {
+  padding-top: 100px;
+}
+
+.contact-form h3 {
+  border-bottom: 1px solid black;
+  margin-bottom: 50px;
+}
+
+.email {}
+
+/* end contact */
+
+/* end main */
+
+/* foooter */
+.footer {
+  background-color: #2c3e50;
+  min-height: 120px;
+  color: white;
+}
+
+.footer-logo {
+  padding: 20px 40px;
+  font-size: 34px;
+  float: left;
+}
+
+.footer-list {
+  float: right;
+}
+
+.footer-list li {
+  padding-bottom: 10px;
+  padding-right: 30px;
+}
+
+/* end footer */
